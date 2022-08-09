@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,600;1,500&display=swap');
+a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Montserrat';
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #dcd5cc;
+    overflow-x: hidden;
+}
+
+p{
+    font-size: 37px;
+    font-family: 'Montserrat';
+    display:inline-block;
+    display: flex;
+    margin: 0px;
+}
+.Mision {
+    background-color: #2d2f2c;
+    color: white;
+}
+.titulo{
+    text-align: center;
+}
+form{
+    font-family: 'Montserrat';
+    vertical-align: top;
+    background-color: #202120;
+    font-size: 37px;
+}
+.boton{
+    text-align: center;
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    background-color: #191a19;
+    color: #ffffff;
+}
+form{
+    font-family: 'Montserrat';
+    vertical-align: top;
+    background-color: #2d2f2c;
+    font-size: 37px;
+}
+input{
+    font-size:  30px;
+    text-align: center;
+}
+.boton{
+    text-align: center;
+    font-size: 100px;
+}
+textarea{
+    font-size: 25px;
+    font-family: 'Montserrat';
+}
+.img2{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
